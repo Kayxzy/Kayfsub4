@@ -41,6 +41,10 @@
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "-100"
     },
+    "FORCE_SUB_CHANNEL4":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "-100"
+    },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
       "value": "Hello {first}\n\nSaya dapat menyimpan file pribadi di Saluran Tertentu dan pengguna lain dapat mengaksesnya dari tautan khusus.."
